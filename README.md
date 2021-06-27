@@ -5,15 +5,6 @@
 
 My name is Jean Carlos, I'm 18 years old and I'm a graduate student in Software Engineering. Currently, I have been studying Front-end development and Web Design.
 
-A few more facts about me:
-
-- 🙋🏻‍♂️ I am Brazilian;
-- 💻 I'm passionate about studying/learning about technology;
-- 🌎 I love learning new languages (English and Spanish);
-- ⚽ Crazy about soccer.
-
-Also, I'm a tech content creator on Instagram [@dev.calouro](https://www.instagram.com/dev.calouro/)
-
 📚 Technologies I've studied:
 
 <div style="display: inline_block">
@@ -22,6 +13,15 @@ Also, I'm a tech content creator on Instagram [@dev.calouro](https://www.instagr
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
+
+A few more facts about me:
+
+- 🙋🏻‍♂️ I am Brazilian;
+- 💻 I'm passionate about studying/learning about technology;
+- 🌎 I love learning new languages (English and Spanish);
+- ⚽ Crazy about soccer.
+
+Also, I'm a tech content creator on Instagram [@dev.calouro](https://www.instagram.com/dev.calouro/)
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeancarlospaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
