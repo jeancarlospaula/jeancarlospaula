@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, World! 👨‍💻
 
-<!--
-**jeancarlospaula/jeancarlospaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jean Carlos, I'm 18 years old and I'm a graduate student in Software Engineering. Currently, I have been studying Front-end development and Web Design.
 
-Here are some ideas to get you started:
+Some fun facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am Brazilian 🇧🇷
+- I'm passionate about studying/learning about technology. 💻
+- I love learning new languages 🇺🇸 🇪🇸
+- Crazy about soccer ⚽
+
+
+Also, I'm a tech content creator on Instagram [@dev.calouro](https://www.instagram.com/dev.calouro/)
