@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeancarlospaula/)](https://www.linkedin.com/in/jeancarlospaula/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeandepaula294@gmail.com)](mailto:jeandepaula294@gmail.com)
 
 
-My name is Jean Carlos, I'm 18 years old and I'm a graduate student in Software Engineering. Currently, I have been studying Front-end development and Web Design.
+My name is Jean Carlos, I'm 18 years old and I'm a graduate student in Software Engineering. Currently, I have been working as an intern in back-end software development
 
 📚 Technologies I've studied:
 
