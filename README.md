@@ -1,4 +1,4 @@
-# Hello, World! 👨🏻‍💻
+# Hello, World!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeancarlospaula/)](https://www.linkedin.com/in/jeancarlospaula/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeandepaula294@gmail.com)](mailto:jeandepaula294@gmail.com)
 
